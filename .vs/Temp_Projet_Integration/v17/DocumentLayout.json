@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|c:\\users\\rh-multimedia\\source\\repos\\temp_projet_integration\\temp_projet_integration\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|solutionrelative:temp_projet_integration\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|c:\\users\\rh-multimedia\\source\\repos\\temp_projet_integration\\temp_projet_integration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|solutionrelative:temp_projet_integration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|c:\\users\\rh-multimedia\\source\\repos\\temp_projet_integration\\temp_projet_integration\\views\\home\\buttons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|solutionrelative:temp_projet_integration\\views\\home\\buttons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|c:\\users\\rh-multimedia\\source\\repos\\temp_projet_integration\\temp_projet_integration\\views\\home\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|solutionrelative:temp_projet_integration\\views\\home\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|c:\\users\\rh-multimedia\\source\\repos\\temp_projet_integration\\temp_projet_integration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|solutionrelative:temp_projet_integration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|c:\\users\\rh-multimedia\\source\\repos\\temp_projet_integration\\temp_projet_integration\\wwwroot\\template\\jsonfile\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|solutionrelative:temp_projet_integration\\wwwroot\\template\\jsonfile\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|c:\\users\\rh-multimedia\\source\\repos\\temp_projet_integration\\temp_projet_integration\\views\\home\\dropdowns.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|solutionrelative:temp_projet_integration\\views\\home\\dropdowns.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|c:\\users\\rh-multimedia\\source\\repos\\temp_projet_integration\\temp_projet_integration\\views\\home\\typography.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|solutionrelative:temp_projet_integration\\views\\home\\typography.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|c:\\users\\rh-multimedia\\source\\repos\\temp_projet_integration\\temp_projet_integration\\views\\home\\basic_elements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|solutionrelative:temp_projet_integration\\views\\home\\basic_elements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|c:\\users\\rh-multimedia\\source\\repos\\temp_projet_integration\\temp_projet_integration\\views\\home\\chartjs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAACE0F7-B84C-4B1C-A3F5-75058B131E18}|Temp_Projet_Integration\\Temp_Projet_Integration.csproj|solutionrelative:temp_projet_integration\\views\\home\\chartjs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "Temp_Projet_Integration\\Views\\Home\\login.cshtml",
+              "ToolTip": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "Temp_Projet_Integration\\Views\\Home\\login.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:17:52.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "typography.cshtml",
+              "DocumentMoniker": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\typography.cshtml",
+              "RelativeDocumentMoniker": "Temp_Projet_Integration\\Views\\Home\\typography.cshtml",
+              "ToolTip": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\typography.cshtml",
+              "RelativeToolTip": "Temp_Projet_Integration\\Views\\Home\\typography.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:09:50.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dropdowns.cshtml",
+              "DocumentMoniker": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\dropdowns.cshtml",
+              "RelativeDocumentMoniker": "Temp_Projet_Integration\\Views\\Home\\dropdowns.cshtml",
+              "ToolTip": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\dropdowns.cshtml",
+              "RelativeToolTip": "Temp_Projet_Integration\\Views\\Home\\dropdowns.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAApwB4AAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:09:22.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "buttons.cshtml",
+              "DocumentMoniker": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\buttons.cshtml",
+              "RelativeDocumentMoniker": "Temp_Projet_Integration\\Views\\Home\\buttons.cshtml",
+              "ToolTip": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\buttons.cshtml",
+              "RelativeToolTip": "Temp_Projet_Integration\\Views\\Home\\buttons.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:08:46.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Temp_Projet_Integration\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Temp_Projet_Integration\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAASwDgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:38:30.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Temp_Projet_Integration\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Temp_Projet_Integration\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:27:54.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\sidebar.cshtml",
+              "RelativeDocumentMoniker": "Temp_Projet_Integration\\Views\\Home\\sidebar.cshtml",
+              "ToolTip": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\sidebar.cshtml",
+              "RelativeToolTip": "Temp_Projet_Integration\\Views\\Home\\sidebar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T09:35:49.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\wwwroot\\template\\jsonfile\\data.json",
+              "RelativeDocumentMoniker": "Temp_Projet_Integration\\wwwroot\\template\\jsonfile\\data.json",
+              "ToolTip": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\wwwroot\\template\\jsonfile\\data.json",
+              "RelativeToolTip": "Temp_Projet_Integration\\wwwroot\\template\\jsonfile\\data.json",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T09:12:56.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "basic_elements.cshtml",
+              "DocumentMoniker": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\basic_elements.cshtml",
+              "RelativeDocumentMoniker": "Temp_Projet_Integration\\Views\\Home\\basic_elements.cshtml",
+              "ToolTip": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\basic_elements.cshtml",
+              "RelativeToolTip": "Temp_Projet_Integration\\Views\\Home\\basic_elements.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T08:57:17.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "chartjs.cshtml",
+              "DocumentMoniker": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\chartjs.cshtml",
+              "RelativeDocumentMoniker": "Temp_Projet_Integration\\Views\\Home\\chartjs.cshtml",
+              "ToolTip": "C:\\Users\\RH-Multimedia\\source\\repos\\Temp_Projet_Integration\\Temp_Projet_Integration\\Views\\Home\\chartjs.cshtml",
+              "RelativeToolTip": "Temp_Projet_Integration\\Views\\Home\\chartjs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T08:57:26.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

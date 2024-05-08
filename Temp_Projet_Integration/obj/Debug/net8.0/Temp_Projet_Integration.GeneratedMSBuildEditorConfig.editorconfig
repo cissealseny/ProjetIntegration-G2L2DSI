@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Temp_Projet_Integration
+build_property.RootNamespace = Temp_Projet_Integration
+build_property.ProjectDir = C:\Users\RH-Multimedia\source\repos\Temp_Projet_Integration\Temp_Projet_Integration\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\RH-Multimedia\source\repos\Temp_Projet_Integration\Temp_Projet_Integration
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Home/basic_elements.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxiYXNpY19lbGVtZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Home/basic_table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxiYXNpY190YWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Home/buttons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxidXR0b25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Home/chartjs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjaGFydGpzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Home/dropdowns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkcm9wZG93bnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Home/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Home/mdi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtZGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Home/sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Home/typography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0eXBvZ3JhcGh5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RH-Multimedia/source/repos/Temp_Projet_Integration/Temp_Projet_Integration/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-p6dl8vf2bb

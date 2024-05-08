@@ -1,0 +1,85 @@
+[
+  {
+    "id": "ui-basic",
+    "href": "#ui-basic",
+    "logo": "laptop",
+    "name": "Basic UI Elements",
+    "submenu": [
+      {
+        "href": "home/buttons",
+        "name": "Buttons"
+      },
+      {
+        "href": "home/dropdowns",
+        "name": "Dropdowns"
+      },
+      {
+        "href": "home/typography",
+        "name": "Typography"
+      }
+    ]
+  },
+  {
+    "href": "/",
+    "logo": "speedometer",
+    "name": "Dashboard"
+  },
+  {
+    "href": "index.html",
+    "logo": "speedometer",
+    "name": "condidat"
+  },
+  {
+    "href": "/Privacy",
+    "logo": "playlist-play",
+    "name": "Form Elements"
+  },
+  {
+    "href": "home/basic_table",
+    "logo": "table-large",
+    "name": "Tables"
+  },
+  {
+    "href": "home/chartjs",
+    "logo": "chart-bar",
+    "name": "Charts"
+  },
+  {
+    "href": "home/mdi",
+    "logo": "contacts",
+    "name": "Icons"
+  },
+  {
+    "id": "auth",
+    "href": "#auth",
+    "logo": "security",
+    "name": "User Pages",
+    "submenu": [
+      {
+        "href": "pages/samples/blank-page.html",
+        "name": "Blank Page"
+      },
+      {
+        "href": "pages/samples/error-404.html",
+        "name": "404"
+      },
+      {
+        "href": "pages/samples/error-500.html",
+        "name": "500"
+      },
+      {
+        "href": "home/login",
+        "name": "Login"
+      },
+      {
+        "href": "pages/samples/register.html",
+        "name": "Register"
+      }
+    ]
+  },
+  {
+    "href": "http://www.bootstrapdash.com/demo/corona-free/jquery/documentation/documentation.html",
+    "logo": "file-document-box",
+    "name": "Documentation"
+  }
+]
